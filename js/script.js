@@ -55,6 +55,8 @@ $(document).ready(function() {
             preferToTalk: "Prefer to talk to sales?",
             contactTeam: "Contact our team",
             allRightsReserved: "© 2025 NeoTrack. All rights reserved.",
+            emailInstructions: "Click the button below to request a demo via email:",
+            emailButton: "Email Us for a Demo"
         },
         es: {
             features: "Características",
@@ -110,6 +112,8 @@ $(document).ready(function() {
             preferToTalk: "¿Prefieres hablar con ventas?",
             contactTeam: "Contacta a nuestro equipo",
             allRightsReserved: "© 2025 NeoTrack. Todos los derechos reservados.",
+            emailInstructions: "Haz clic en el botón para solicitar una demo por correo electrónico:",
+            emailButton: "Envíanos un Email para una Demo"
         }
     };
     
